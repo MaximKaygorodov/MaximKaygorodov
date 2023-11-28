@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>WIP</b>
-  - WIP
+- <b>Funny little game</b>
+  - [Check it out](https://maximkaygorodov.github.io/BouncyBalls/)
+  - [See the code ](https://github.com/MaximKaygorodov/BouncyBalls)
  
 <h2>👨‍💼 How I can help you:</h2>
 
