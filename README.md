@@ -8,7 +8,7 @@
   - [Check it out](https://maximkaygorodov.github.io/BouncyBalls/)
   - [See the code ](https://github.com/MaximKaygorodov/BouncyBalls)
 
-  - <b>Some of my personal projects are still in progress</b>
+- <b>Some of my personal projects are still in progress</b>
 
  
 <h2>👨‍💼 How I can help you:</h2>
