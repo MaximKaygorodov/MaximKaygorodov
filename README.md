@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Some of my personal projects are still in progress</b>
+- <b>I had commercial experience at careerist.com for 3 years as a fullstack engineer.</b>
 
-- <b>Funny little game</b>
+- <b>I made a funny little game to demonstarte my flexability</b>
   - [Check it out](https://maximkaygorodov.github.io/BouncyBalls/)
   - [See the code ](https://github.com/MaximKaygorodov/BouncyBalls)
+
+  - <b>Some of my personal projects are still in progress</b>
+
  
 <h2>👨‍💼 How I can help you:</h2>
 
