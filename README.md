@@ -27,7 +27,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/maxim-kaygorodov-9b2b341b3">LinkedIn</a>
+<a href="https://www.linkedin.com/in/maxim-kaygorodov-9b2b341b3">LinkedIn</a> <a href="https://t.me/Makosok">Telegram</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
