@@ -18,10 +18,9 @@
 - Design and test major database migration
 - Lead and maintain dedicated project
 - Hubspot integration
-- Migrated Sequilize code to Prisma ORM
+- Migrate Sequilize code to Prisma ORM
 - Implement pages in Learning Management System
-- UI/Dashboard for client-mentor communication Reusable UI React components
-- Integrations with CPA (cost per action) networks such as Rakuten, CityAds, Admitad
+- Integrate with CPA (cost per action) networks such as Rakuten, CityAds, Admitad
 
 <h2> 🤳 Connect with me:</h2>
 
