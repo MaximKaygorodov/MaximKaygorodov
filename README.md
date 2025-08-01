@@ -12,11 +12,13 @@
 - Do all kind of stuff with backofice systems
 - Integrate with CPA (cost per action) networks
 
-<h2> 🤳 Connect with me:</h2>
-
 - <b>I made a funny little game to demonstarte my flexability</b>
   - [Check it out](https://maximkaygorodov.github.io/BouncyBalls/)
   - [See the code ](https://github.com/MaximKaygorodov/BouncyBalls)
+
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <a href="https://www.linkedin.com/in/maxim-kaygorodov-9b2b341b3">LinkedIn</a> <a href="https://t.me/Makosok">Telegram</a>
 
