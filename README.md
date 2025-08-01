@@ -4,7 +4,7 @@ Overall just a dev trying to make the world a little better, one commit at a tim
 
 
 
-<h2>👨‍💼 How I can be usfull you:</h2>
+<h2>👨‍💼 How I can be usfull to you:</h2>
 
 - Major perfomance optimisation of back-end server code and algorithms
 - Refactor, develop and optimise high load code
