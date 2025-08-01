@@ -1,7 +1,7 @@
 <h1>Hi, I'm Max!
-<h2>I m a software developer with 6+ years of experience in NodeJS, React, SQL and noSQL</h2>
+<b>I m a software developer with 6+ years of experience in NodeJS, React, SQL and noSQL</b>
 
-- Just a dev trying to make the world a little better, one commit at a time. 👯
+Just a dev trying to make the world a little better, one commit at a time. 👯
 
 <h2>👨‍💼 How I can be usfull you:</h2>
 
