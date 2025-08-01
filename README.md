@@ -1,30 +1,22 @@
-<h1>Hi, I'm Max!</h1>
+<h1>Hi, I'm Max! I m a software developer with 6+ years of experience in NodeJS, React, SQL and noSQL</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- Just a dev trying to make the world a little better, one commit at a time. 👯
 
-- <b>I had commercial experience at careerist.com for 3 years as a fullstack engineer.</b>
+<h2>👨‍💼 How I can be usfull you:</h2>
+
+- Major perfomance optimisation of back-end server code and algorithms
+- Refactor, develop and optimise high load code
+- Normalise and maintain database
+- Lead and maintain dedicated project
+- CRM integration
+- Do all kind of stuff with backofice systems
+- Integrate with CPA (cost per action) networks
+
+<h2> 🤳 Connect with me:</h2>
 
 - <b>I made a funny little game to demonstarte my flexability</b>
   - [Check it out](https://maximkaygorodov.github.io/BouncyBalls/)
   - [See the code ](https://github.com/MaximKaygorodov/BouncyBalls)
-
-- <b>Some of my personal projects are still in progress</b>
-
- 
-<h2>👨‍💼 How I can help you:</h2>
-
-- Major perfomance optimisation of back-end server code and algorithms
-- Refactor, develop and optimise high load code
-- Design and test major database migration
-- Lead and maintain dedicated project
-- Hubspot integration
-- Migrate Sequilize code to Prisma ORM
-- Implement pages in Learning Management System
-- Integrate with CPA (cost per action) networks such as Rakuten, CityAds, Admitad
-
-<h2> 🤳 Connect with me:</h2>
-
-
 
 <a href="https://www.linkedin.com/in/maxim-kaygorodov-9b2b341b3">LinkedIn</a> <a href="https://t.me/Makosok">Telegram</a>
 
